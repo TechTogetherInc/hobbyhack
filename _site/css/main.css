@@ -75,9 +75,10 @@ button {
 	margin-bottom: 20px;
 	margin-top: 10px;
 	font-weight: 500;
+	border-radius:10px;
 }
 
-button.hover {
+button.cta:hover {
 	background-color: #E26554;
 }
 
@@ -106,12 +107,21 @@ button.hover {
 	margin-bottom: 150px;
 }
 
+.end {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
 .navbar-brand {
 	margin-top:10px;
 }
 
 a {
 	color: #51DBF6;
+}
+
+section.footer-border{
+	border-top: 1px #C5C5C5 solid;
 }
 
 #mc_embed_signup {
