@@ -120,6 +120,10 @@ a {
 	color: #51DBF6;
 }
 
+a:hover {
+	color: #FC7361;
+}
+
 section.footer-border{
 	border-top: 1px #C5C5C5 solid;
 }
