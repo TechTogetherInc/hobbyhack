@@ -87,6 +87,10 @@ button.cta:hover {
 	height: 500px;
 }
 
+.img-xs {
+	width: 70%;
+}
+
 .img-logo {
 	width: 200px;
 	margin-left: 30px;
@@ -156,6 +160,33 @@ input#mce-EMAIL {
 	color: #FDA094 !important;
 }
 
+@media only screen and (max-width: 1000px) {
+body {
+	margin-left: 50px;
+	margin-right: 50px;
+	}
+
+.img-sm {
+	visibility: hidden;
+	display: none;
+}
+
+.img-xs {
+	visibility: hidden;
+	display: none;
+}
+
+.img-logo {
+	margin-left: 0px;
+}
+
+.middle {
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+	}
+
 @media only screen and (max-width: 600px) {
 
 body {
@@ -165,10 +196,21 @@ body {
 
 .img-sm {
 	visibility: hidden;
+	display: none;
+}
+
+.img-xs {
+	visibility: hidden;
+	display: none;
 }
 
 .img-logo {
 	margin-left: 0px;
+}
+
+.middle {
+	margin-top: 25px;
+	margin-bottom: 25px;
 }
 
 	}
