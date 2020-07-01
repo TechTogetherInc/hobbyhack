@@ -113,8 +113,7 @@ button.cta:hover {
 
 .img-logo {
 	width: 200px;
-	margin-left: 30px;
-	margin-top: 20px;
+	opacity: 0.6;
 }
 
 .bg-dark {
