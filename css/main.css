@@ -111,6 +111,12 @@ button.cta:hover {
 	width: 70%;
 }
 
+
+.img-headshot {
+	width: 80%;
+	border-radius: 25px;
+}
+
 .img-logo {
 	width: 200px;
 	opacity: 0.6;
