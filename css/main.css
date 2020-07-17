@@ -83,6 +83,10 @@ button.btn.btn-link {
 	font-size: 18px;
 }
 
+hr {
+	border-color:#FC7361
+}
+
 .card {
 	border-color: #222A68 !important;
 }
