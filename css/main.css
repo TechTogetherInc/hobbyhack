@@ -210,6 +210,11 @@ body {
 	display: none;
 }
 
+img-headshot {
+	visibility: hidden;
+	display: none;
+}
+
 .img-logo {
 	margin-left: 0px;
 }
@@ -229,6 +234,11 @@ body {
 	}
 
 .img-sm {
+	visibility: hidden;
+	display: none;
+}
+
+.img-headshot {
 	visibility: hidden;
 	display: none;
 }
